@@ -7,6 +7,4 @@ Hello there! My name is Anik. I am from Dhaka, Bangladesh. I am passionate about
 
 **Soft Skills:** Scientific writing, code documentation, presentation
 
-![image](path-to-image.jpg){: style="float: left"}
 
-Some text.
