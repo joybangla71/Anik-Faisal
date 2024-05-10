@@ -4,4 +4,5 @@ Hello there! My name is Anik. I am from Dhaka, Bangladesh. I am passionate about
 
 ## Skills
 **Technical skills:** Python, Matlab, Numerical Simulations, PyTorch, SQL, Spark
+
 **Soft Skills:** Scientific writing, code documentation, presentation
