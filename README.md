@@ -15,9 +15,9 @@ Hello there! My name is Anik. I am from Dhaka, Bangladesh. I am passionate about
 
 ## Work Experience
 - Research Scientist, Colorado Dept of Public Health (2023 - Present)
-- Doctoral researcher, Colorado State University (2018 - 2023)
+- Doctoral Researcher, Colorado State University (2018 - 2023)
 - Mechanical Engineer, Payra 1320 MW Thermal Power Plant (2017 - 2018)
-- Engineering Trainne, Sharp Blade Industries Ltd. (2016 - 2017)
+- Engineering Trainee, Sharp Blade Industries Ltd. (2016 - 2017)
 
 ## Contact Info
 Email: a.h.m.faisall@gmail.coom
