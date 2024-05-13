@@ -9,9 +9,9 @@ Hello there! My name is Anik. I am from Dhaka, Bangladesh. I am passionate about
 
 ## Projects
 
-- [Computer Vision Projects](https://www.kaggle.com/anikfaisal/code)
-- [Doctoral Thesis](https://www.proquest.com/openview/a5b5c0b81672c0c4426741428a1619cf/1?pq-origsite=gscholar&cbl=18750&diss=y)
-- [Scientific Writing](https://scholar.google.com/citations?user=9Mi7dPEAAAAJ&hl=en)
+- [Computer Vision Projects](https://www.kaggle.com/anikfaisal/code): Image classification projects built in Jupyter Notebooks with Pandas, PyTorch and fastai.
+- [Doctoral Thesis](https://www.proquest.com/openview/a5b5c0b81672c0c4426741428a1619cf/1?pq-origsite=gscholar&cbl=18750&diss=y): Dissertation for PhD in computational materials science, written with LaTex extension for VSCode. 
+- [Scientific Writing](https://scholar.google.com/citations?user=9Mi7dPEAAAAJ&hl=en): Peer-reviewed journal articles with data analysis and visualization.
 
 ## Work Experience
 - Research Scientist, Colorado Dept of Public Health & Environment (2023 - Present)
